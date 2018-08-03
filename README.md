@@ -3,4 +3,6 @@ This 'HEADER.H' file contains some useful string functions like is_palindrome,st
 and print appropriate message according it.
 * str_rev() simply reverse the given string.
 
+-tested in TURBO C++
+
 -If you want to improve this,feel free to do this.
